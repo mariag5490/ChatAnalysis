@@ -1,4 +1,4 @@
-Ferocia Code Exercise Data Engineer
+ Code Exercise Data Engineer
 
 
 Data governance
@@ -6,7 +6,7 @@ Please write some commentary about what you would consider or how you would
 approach data quality and sensitivity as part of ingesting and managing data in a
 data warehouse. We’re looking to get a picture of how you would discover and
 solve problems which would prevent the safe and effective use of data by the
-teams at Ferocia.
+teams at Bank.
 
 Data governance is very critical in a Data warehouse to ensure data quality and to protect sensitive information. A systematic approach can reduce risks and enhance decision-making.
 
